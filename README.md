@@ -39,7 +39,6 @@ This is a front-end project made using HTML, CSS, and a bit of JavaScript. It sh
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the live site](https://your-username.github.io/supream-rentals)  
-*(Replace with your actual GitHub Pages URL after deployment)*
+👉 [Click here to view the live site](https://rajathacharya24.github.io/webpage)  
 
 ---
